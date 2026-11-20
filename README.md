@@ -2,8 +2,6 @@
 
 I work on **quantitative finance and data analysis**: statistical and machine-learning models built on public data, mostly with Python, SQL and Google BigQuery.
 
-Currently writing my master's thesis in the **International Master in Quantitative Finance (IMQF)**, using a Spanish motor-insurance portfolio dataset.
-
 ## Featured projects
 
 | Project | What it does | Stack |
