@@ -2,11 +2,11 @@
 
 **Data analytics · Data architecture · Quantitative modelling**
 
-I build the systems behind data-driven decisions: reliable data models, automated reporting, and statistical models that can be tested and explained. My background includes analytics management and data-product work in fintech and digital businesses. I'm currently pursuing an **International Master in Quantitative Finance (IMQF)** at the University of Belgrade.
+I build the systems behind data driven decisions, reliable data models, automated reporting, and statistical models that can be tested and explained. My background includes analytics management and data-product work in fintech and digital businesses. I'm currently pursuing an International Master in Quantitative Finance (IMQF). These times, I kinda busy exploring ideas and AI helps to make my dream come through!
 
 📍 Belgrade, Serbia · [LinkedIn](https://www.linkedin.com/in/dea-peni-larasati-b5b23899)
 
-## Selected work
+## Here are my works... trust me I try to make something!
 
 ### [Data architecture case studies](https://github.com/goldiemiley/data-architecture-case-study)
 **Industry experience · AWS · Airflow · SQL · Metabase**
@@ -39,6 +39,7 @@ My ongoing IMQF research uses a public Spanish motor-insurance dataset (**354,14
 - **Statistics & machine learning:** Python, pandas, NumPy, SciPy, scikit-learn, Monte Carlo simulation
 - **Business intelligence:** Power BI, Tableau, Metabase
 - **Development & notebooks:** Git, Jupyter, Google Colab, TypeScript, Next.js
+- **AI tools:** Claude, ChatGPT
 
 ## Connect
 
