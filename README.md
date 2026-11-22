@@ -1,20 +1,45 @@
 # Hi, I'm Dea 👋
 
-I work on **data architecture, analytics and quantitative finance**: designing data models and pipelines, and building statistical and machine-learning models, mostly with Python, SQL and cloud data warehouses.
+**Data analytics · Data architecture · Quantitative modelling**
 
-## Featured projects
+I build the systems behind data-driven decisions: reliable data models, automated reporting, and statistical models that can be tested and explained. My background includes analytics management and data-product work in fintech and digital businesses. I'm currently pursuing an **International Master in Quantitative Finance (IMQF)** at the University of Belgrade.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Serbia election forecast**](https://github.com/goldiemiley/serbian-election-analysis) | Three-stage forecast of a Serbian parliamentary election: vote shares, seat allocation under Serbian electoral law, and coalition majorities. Built from municipality-level data with 20,000 simulations, backtests and a pytest suite. | Python · SQL · BigQuery · DuckDB |
-| [**Macroeconomic stress early warning**](https://github.com/goldiemiley/Predicting_Macroeconomic_Stress_An_Early_Warning_Approach) | ML classifiers on World Bank country-year data (1995–2020), with an honest look at label leakage and a lagged, chronological holdout for real forward prediction. | Python · scikit-learn · BigQuery · Colab |
-| [**Data architecture case studies**](https://github.com/goldiemiley/data-architecture-case-study) | Anonymised case studies from industry work: unifying marketing, app and product data with cross-device identity stitching and attribution, and modernising a warehouse with continuous replication, Airflow and a star-schema model. | AWS · Airflow · SQL · Metabase |
-| [**IMQF thesis dataset**](https://github.com/goldiemiley/thesis) | Data documentation for my thesis on a motor-insurance portfolio (354k policies, 2022–2024). | BigQuery · Excel |
+📍 Belgrade, Serbia · [LinkedIn](https://www.linkedin.com/in/dea-peni-larasati-b5b23899)
 
-## Tools
+## Selected work
 
-Python · pandas · NumPy · SciPy · scikit-learn · SQL · Google BigQuery · AWS · Apache Airflow · DuckDB · Metabase · Jupyter / Google Colab · matplotlib
+### [Data architecture case studies](https://github.com/goldiemiley/data-architecture-case-study)
+**Industry experience · AWS · Airflow · SQL · Metabase**
 
-## Contact
+Two anonymised case studies from my previous work: integrating marketing, app, CRM and product data for attribution and audience analysis; and modernising a warehouse around continuous replication, dimensional modelling and automated reporting. I designed the data model and architecture plan as part of a team. The wider plan was partly implemented, including automated booking and marketplace reporting.
 
-[LinkedIn](https://www.linkedin.com/in/dea-peni-larasati-b5b23899)
+### [Serbian parliamentary election forecast](https://github.com/goldiemiley/serbian-election-analysis)
+**Forecasting · Python · SQL · BigQuery · DuckDB**
+
+A three-stage model that translates **votes → seats → possible governing coalitions**, accounting for turnout, polls, geographic variation, electoral rules and uncertainty. Includes **20,000 national Monte Carlo simulations**, backtests, scenario analysis and **183 local tests**. Developed in collaboration with Stefan Siridžanski. Results are conditional on the model's inputs, not certainties.
+
+### [Macroeconomic stress modelling](https://github.com/goldiemiley/Predicting_Macroeconomic_Stress_An_Early_Warning_Approach)
+**Machine learning · Python · scikit-learn · BigQuery**
+
+A country-year classification study using World Bank indicators (1995–2020). The repository documents why near-perfect same-year scores can be misleading when the target is defined using model inputs, and provides a lagged-feature, chronological-holdout workflow for more credible forward-looking evaluation. It does **not** claim validated crisis-forecasting performance.
+
+### [AskQueen](https://github.com/goldiemiley/askqueen)
+**Web product · Next.js · TypeScript · Tailwind CSS · Vitest**
+
+A mobile-first, humour-led astrology entertainment app with a question oracle, personalised daily zodiac roasts, music pairings and shareable result cards. Built as a privacy-conscious static site without accounts or a backend. **In development / beta preparation.**
+
+### [Motor-insurance pricing thesis](https://github.com/goldiemiley/thesis)
+**Quantitative finance · Insurance analytics · BigQuery**
+
+My ongoing IMQF research uses a public Spanish motor-insurance dataset (**354,140 policy-year observations, 2022–2024**) to study pricing models, calibration and premium stability over time. The repository currently contains dataset documentation and an annotated literature review; the modelling work is in progress.
+
+## Tools I use
+
+- **Data engineering & analytics:** SQL, Google BigQuery, AWS, Apache Airflow, DuckDB, dimensional modelling
+- **Statistics & machine learning:** Python, pandas, NumPy, SciPy, scikit-learn, Monte Carlo simulation
+- **Business intelligence:** Power BI, Tableau, Metabase
+- **Development & notebooks:** Git, Jupyter, Google Colab, TypeScript, Next.js
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/dea-peni-larasati-b5b23899) · [Explore my repositories](https://github.com/goldiemiley?tab=repositories)
